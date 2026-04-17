@@ -1,7 +1,7 @@
 ## Olá, Sou Jade Bizarria - Estudante de Programação
 
 <br>
- Com 18 anos, sou estudante de Análise e Desenvolvimento de Sistemas na UNIS. Empenhada em aprofundar meus conhecimentos e avançar na minha jornada acadêmica, estou sempre buscando aprender e evoluir.
+ Com 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na UNIS. Empenhada em aprofundar meus conhecimentos e avançar na minha jornada acadêmica, estou sempre buscando aprender e evoluir.
 
 <br>
 
